@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2020-10-03T10:59:52.145Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" version="13.7.7" etag="T7jUJ4mDeCAL3i01j60D" type="github"><diagram id="2j4bZiaKfehHfSE94O-2">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-03T11:17:40.570Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="d9vQUs6Ad9QmTraFNcnh" version="13.7.7" type="github">
+  <diagram id="2j4bZiaKfehHfSE94O-2" name="Page-1">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ttbEUpQWNBWwSJxklKcx-2" value="ReactJS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ttbEUpQWNBWwSJxklKcx-3" value="Creates a VirtualDOM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="170" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ttbEUpQWNBWwSJxklKcx-4" value="Changes what need to be changed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="170" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ttbEUpQWNBWwSJxklKcx-5" value="&lt;h1&gt;&lt;span style=&quot;background-color: rgb(212 , 237 , 218) ; font-family: &amp;#34;verdana&amp;#34; , sans-serif ; font-size: 15px ; font-weight: normal&quot;&gt;React is a JavaScript library for building user interfaces.&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(212 , 237 , 218)&quot;&gt;React is used to build single page applications.&lt;/span&gt;&lt;span style=&quot;background-color: rgb(212 , 237 , 218) ; font-family: &amp;#34;verdana&amp;#34; , sans-serif ; font-size: 15px ; font-weight: normal&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(212 , 237 , 218)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(212 , 237 , 218)&quot;&gt;React allows us to create reusable UI components.&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(212 , 237 , 218)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="40" width="300" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
