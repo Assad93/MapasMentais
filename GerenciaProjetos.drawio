@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T08:49:21.513Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" version="13.7.7" etag="hFlyUqn6m01Vxt9fFu5R" type="github"><diagram id="dQzjhnTINS4RWnCC6XAo">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-07T10:13:52.897Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="qgylxdrMw1732AsunfIe" version="13.7.7" type="github">
+  <diagram id="dQzjhnTINS4RWnCC6XAo" name="Page-1">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fRDFvKqw9psjuwmFhb9Z-1" value="Projeto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fRDFvKqw9psjuwmFhb9Z-2" value="&lt;ul&gt;&lt;li&gt;Esforço&lt;/li&gt;&lt;li&gt;Temporário&lt;/li&gt;&lt;li&gt;Resultado Singular&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="500" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
